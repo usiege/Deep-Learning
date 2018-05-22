@@ -4,9 +4,6 @@
 ## 资料
 
 
-### 2018-05-20
- * [Hung-yi Lee 机器学习](https://github.com/usiege/Deep-Learning/tree/master/Hung-yi%20Lee) 
-
 ### 2018-05-19
 
  * [StarCraft II: A New Challenge for Reinforcement Learning](https://github.com/usiege/Deep-Learning/blob/master/paper/StarCraft%20II.pdf)
