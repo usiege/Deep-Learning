@@ -1,8 +1,9 @@
 # 深度学习
 
-
 ## 资料
 
+### 2018-05-22
+ * [deeplearning.ai](http://deeplearning.ai)
 
 ### 2018-05-19
 
