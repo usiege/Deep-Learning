@@ -2,10 +2,16 @@
 
 ## 资料
 
+### 2018-05
+
 ### 2018-05-28
- * []()
+
+ * [NIPS DRL](https://blog.csdn.net/mydear_11000/article/details/51488118)
+ * [Playing Atari with Deep Reinforcement Learning](https://github.com/usiege/Deep-Learning/blob/master/paper/1312.5602v1%20Playing%20Atari.pdf)
+ * [Human-level control through deep reinforcement learning](https://github.com/usiege/Deep-Learning/blob/master/paper/Human-level-control-through-deep-reinforcement.pdf) 
 
 ### 2018-05-22
+
  * [deeplearning.ai](http://deeplearning.ai)
 
 ### 2018-05-19
