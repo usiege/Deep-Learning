@@ -2,8 +2,9 @@
 
 ## 资料
 
-### 2018-05-29
- 
+### 2018-06-13
+ * [吴恩达机器学习笔记](https://github.com/uwuneng/Coursera-ML-AndrewNg-Notes)
+ * [吴恩达deeplearning.ai作业资料](https://github.com/uwuneng/deeplearning.ai)
 
 ### 2018-05-28
 
