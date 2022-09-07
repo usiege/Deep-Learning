@@ -1,0 +1,3 @@
+/Users/dizi/Coder/cmake/CMakeFiles/rebuild_cache.dir
+/Users/dizi/Coder/cmake/CMakeFiles/edit_cache.dir
+/Users/dizi/Coder/cmake/CMakeFiles/Demo.dir
